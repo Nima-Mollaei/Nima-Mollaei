@@ -14,7 +14,7 @@
 - Python 🐍  
 - Django & Django REST Framework  
 - Backend logic & Problem-Solving  
-- Git & version control flow  . 
+- Git & version control flow  
 
 ⚡ Fun fact: I debug in my dreams and still wake up tired 😴
 
